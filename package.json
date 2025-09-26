@@ -1,0 +1,20 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "A basic test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "jest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
